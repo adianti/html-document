@@ -15,7 +15,7 @@
     "include-path": [
         "./"
     ],
-    "license": "https://adiantiframework.com.br/license",
+    "license": "MIT",
     "minimum-stability": "dev",
     "name": "adianti/html-document",
     "support": {
